@@ -9,13 +9,7 @@
 [![Toplam Yıldız](https://img.shields.io/github/stars/Andalefx?style=social)](https://github.com/Andalefx)
 
 
-## 🏆 GitHub Başarımlarım
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Andalefx&theme=radical&no-frame=true&no-bg=true" alt="Andale'nin GitHub Başarımları" />
-</div>
-</div>
-<br>
  
  [![Discord Presence](https://lanyard.cnrad.dev/api/1397360217859297321)](https://discord.com/users/1397360217859297321)
 

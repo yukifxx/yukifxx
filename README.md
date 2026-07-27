@@ -82,8 +82,8 @@
   <a href="https://www.instagram.com/kaanfx4" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 </div>
 
-<div align="center" style="width: 100%; margin: 0 auto; padding: 0;">
-  <img src="https://wallpapercave.com/wp/wp11195999.jpg" 
-       style="width: 100%; height: auto; object-fit: cover; display: block; border-radius: 8px;" 
-       alt="Johnny Silverhand Banner" />
+<div align="center" style="width: 100%; margin: 0 auto; padding: 0; box-sizing: border-box;">
+  <img src="https://wallpaperaccess.com/full/9336992.gif" 
+       style="width: 100%; height: auto; display: block; border-radius: 8px; object-fit: cover;" 
+       alt="Johnny Silverhand Glitch Banner" />
 </div>

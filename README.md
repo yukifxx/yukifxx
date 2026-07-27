@@ -82,12 +82,9 @@
   <a href="https://www.instagram.com/kaanfx4" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 </div>
 
-<!-- Bu div, sayfanın enini tam kaplayan ana konteynerdir -->
-<div align="center" style="width: 100%; margin: 0 auto; padding: 0; position: relative; overflow: hidden;">
-
-  <!-- Bu img etiketi, görseli kontrol eder -->
-  <img src="https://giphy.com/gifs/cyberpunkgame-cyberpunk-cyberpunk2077-2077-fA7rLtaJDIWEzU57CT" 
-       style="width: 100%; height: 350px; object-fit: contain; display: block; border-radius: 8px; background-color: #0d1117; border: 1px solid #30363d;" 
+<div align="center" style="width: 100%; margin: 0 auto; padding: 0;">
+  <img src="https://media.giphy.com/media/2A7818mN92Zq8P9Gq1/giphy.gif" 
+       style="width: 100%; height: auto; object-fit: cover; display: block; border-radius: 8px;" 
        alt="Johnny Silverhand Banner" />
-       
 </div>
+

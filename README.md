@@ -81,3 +81,6 @@
   <a href="https://github.com/yukifxx" target="blank_"><img src="https://img.shields.io/badge/GitHub%20-181717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.instagram.com/kaanfx4" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 </div>
+<a href="https://www.pinterest.com/ideas/johnny-silverhand-gif/903052713050/" target="_blank">
+  <img src="https://img.shields.io/badge/Johnny_Silverhand-GIFs-red?style=for-the-badge&logo=pinterest&logoColor=white" />
+</a>

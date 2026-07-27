@@ -82,9 +82,7 @@
   <a href="https://www.instagram.com/kaanfx4" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 </div>
 
-<div align="center" style="width: 100%; margin: 0 auto; padding: 0;">
-  <img src="https://media.giphy.com/media/2A7818mN92Zq8P9Gq1/giphy.gif" 
-       style="width: 100%; height: auto; object-fit: cover; display: block; border-radius: 8px;" 
-       alt="Johnny Silverhand Banner" />
+<div align="center">
+  <img src="https://media2.giphy.com/media/fA7rLtaJDIWEzU57CT/giphy.gif" width="100%" style="border-radius: 8px;" />
 </div>
 

@@ -83,5 +83,5 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/c2/27/3a/c2273a58bceb9d476095b71f5723da12.gif" width="350" />
+  <img src="https://i.pinimg.com/originals/c2/27/3a/c2273a58bceb9d476095b71f5723da12.gif" width="800" />
 </div>

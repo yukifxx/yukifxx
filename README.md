@@ -83,7 +83,7 @@
 </div>
 
 <div align="center" style="width: 100%; margin: 0 auto; padding: 0;">
-  <img src="https://wallpapercave.com/wp/wp4652048.jpg" 
+  <img src="https://wallpapercave.com/wp/wp11195999.jpg" 
        style="width: 100%; height: auto; object-fit: cover; display: block; border-radius: 8px;" 
        alt="Johnny Silverhand Banner" />
 </div>

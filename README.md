@@ -11,7 +11,7 @@
 
 
  
- [![Discord Presence](https://lanyard.cnrad.dev/api/1397360217859297321)](https://discord.com/users/1397360217859297321)
+ [![Discord Presence](https://lanyard.cnrad.dev/api/383275532957122560)](https://discord.com/users/383275532957122560)
 
  
 ## 🛠️ Kullandığım Teknolojiler

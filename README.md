@@ -38,7 +38,7 @@
   <img src='https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white'/>
 </p>
 
-### Düşük Seviye Diller
+### Sistem ve Oyun Dilleri
 <p align="center">
   <img src='https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=0D1117'/>
   <img src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white'/>

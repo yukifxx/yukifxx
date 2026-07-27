@@ -16,7 +16,7 @@
  
 ## 🛠️ Kullandığım Teknolojiler
 
-### Diller & Frontend
+### Frontend & Frameworkler
 <p align="center">
   <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0D1117'/>
   <img src='https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white'/>

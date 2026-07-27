@@ -3,10 +3,10 @@
 ### Merhaba, ben Yuki! 👋
 <img src = "https://cdn.discordapp.com/emojis/1397610243998875819.webp?size=96" high="20px" width="30px">
 
-[![GitHub Andalefx](https://img.shields.io/github/followers/AndaleFx?label=follow&style=social)](https://github.com/yukifxx)&nbsp;
-![profile count](https://komarev.com/ghpvc/?username=AndaleFx&color=red)&nbsp;
-[![En Çok Kullanılan Dil](https://img.shields.io/github/languages/top/Andalefx/REPO_ADINIZ?color=blue&label=En%20Pop%C3%BCler%20Dil&style=social)](https://github.com/Andalefx)&nbsp;
-[![Toplam Yıldız](https://img.shields.io/github/stars/Andalefx?style=social)](https://github.com/Andalefx)
+[![GitHub yukifxx](https://img.shields.io/github/followers/yukifxx?label=follow&style=social)](https://github.com/yukifxx)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=yukifxx&color=red)&nbsp;
+[![En Çok Kullanılan Dil](https://img.shields.io/github/languages/top/yukifxx/REPO_ADINIZ?color=blue&label=En%20Pop%C3%BCler%20Dil&style=social)](https://github.com/yukifxx)&nbsp;
+[![Toplam Yıldız](https://img.shields.io/github/stars/Andalefx?style=social)](https://github.com/yukifxx)
 
 
 

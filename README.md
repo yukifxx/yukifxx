@@ -62,11 +62,11 @@
 <div align="center">
  
   &nbsp;
-  <a href="https://github.com/AndaleFx/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andalefx&layout=compact&theme=dark" alt="" height="195px"/>
+  <a href="https://github.com/yukifxx/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukifxx&layout=compact&theme=dark" alt="" height="195px"/>
   </a>
   
- [![GitHub Streak](https://streak-stats.demolab.com/?user=Andalefx&theme=dark&hide_border=true)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=yukifxx&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </div> 
 
 <br>

@@ -86,7 +86,7 @@
 <div align="center" style="width: 100%; margin: 0 auto; padding: 0; position: relative; overflow: hidden;">
 
   <!-- Bu img etiketi, görseli kontrol eder -->
-  <img src="https://i.pinimg.com/originals/c2/27/3a/c2273a58bceb9d476095b71f5723da12.gif" 
+  <img src="https://giphy.com/gifs/cyberpunkgame-cyberpunk-cyberpunk2077-2077-fA7rLtaJDIWEzU57CT" 
        style="width: 100%; height: 350px; object-fit: contain; display: block; border-radius: 8px; background-color: #0d1117; border: 1px solid #30363d;" 
        alt="Johnny Silverhand Banner" />
        

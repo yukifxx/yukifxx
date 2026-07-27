@@ -82,6 +82,12 @@
   <a href="https://www.instagram.com/kaanfx4" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 </div>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/c2/27/3a/c2273a58bceb9d476095b71f5723da12.gif" width="800" />
+<!-- Bu div, görselin tüm genişliği kaplamasını sağlar -->
+<div align="center" style="width: 100%; margin: 0 auto; padding: 0;">
+  
+  <!-- Bu img etiketi, görselin yüksekliğini ve ölçeğini kontrol eder -->
+  <img src="https://i.pinimg.com/originals/c2/27/3a/c2273a58bceb9d476095b71f5723da12.gif" 
+       style="width: 100%; height: auto; object-fit: cover; display: block; border-radius: 8px;" 
+       alt="Johnny Silverhand Banner" />
+       
 </div>
